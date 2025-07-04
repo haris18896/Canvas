@@ -5,6 +5,8 @@
 npx shadcn@latest init                                                   
 npx shadcn@latest add button input dialog label select slider switch tabs
 npm i axios fabric file-saver jspdf loadash uuid zustand next-auth@beta
+
+npx auth secret
 ```
 
 * Installing Packages Server
